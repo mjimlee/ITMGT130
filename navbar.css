@@ -1,0 +1,45 @@
+/* Navbar items */
+nav {
+    margin: 0;
+    padding: 0 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(109, 33, 33);
+}
+
+.left-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 1rem 0;
+}
+
+.nav-title {
+    font-size: 2rem;
+    color: #FFF;
+    padding: 0 1.2rem;
+    margin-top: 1.75rem;
+}
+
+#logo {
+    max-height: 3rem;
+}
+
+.nav-menu {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+    padding:1rem;
+}
+
+li a {
+    color: #FFF;
+    text-decoration: none;
+}
+/* Navbar items */
