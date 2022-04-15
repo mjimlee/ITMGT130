@@ -7,6 +7,16 @@ body {
     padding: 2rem 2rem;
 }
 
+.title-content {
+    display: flex;
+    margin-top:1rem;
+}
+
+#title-logo {
+    max-height: 3rem;
+    padding-right: 1.5rem;
+}
+
 .screen-title {
     color: rgb(109, 33, 33);
 }
